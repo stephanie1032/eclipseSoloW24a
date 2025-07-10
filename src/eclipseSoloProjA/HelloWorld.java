@@ -6,6 +6,8 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		// Step 4.8 screenshot test
 		System.out.println("This program rocks!");
+		System.out.println("Second println from Step 4");
+
 
 	}
 
