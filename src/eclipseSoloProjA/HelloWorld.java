@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("This program rocks!");
 		System.out.println("Second println from Step 4");
 		System.out.println("Programmer 2 changed this again, conflicting version.");
+		System.out.println("Programmer 2 did this  - Programmer 1 did this too");
 
 
 
