@@ -7,6 +7,8 @@ public class HelloWorld {
 		// Step 4.8 screenshot test
 		System.out.println("This program rocks!");
 		System.out.println("Second println from Step 4");
+		System.out.println("Programmer 2 did this");
+
 
 
 	}
